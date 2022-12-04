@@ -1,4 +1,4 @@
-from RectangleArea import RectangleArea
+from RectangleArea.Classes.RectangleArea import RectangleArea
 
 
 def test(actual, expected):
